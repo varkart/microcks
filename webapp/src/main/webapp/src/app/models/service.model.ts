@@ -95,6 +95,7 @@ export enum ParameterLocation {
   path,
   query,
   header,
+  cookie,
 }
 
 export type Contract = {
